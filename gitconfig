@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = famagal@hotmail.com
+	name = Fabio Alves
